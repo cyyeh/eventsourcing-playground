@@ -1,0 +1,29 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a10436eab6c6bbba3fbbf3f3ab5b8a3818b4ce25e44124650a0c63847e68b824"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "eventsourcing": {
+            "hashes": [
+                "sha256:d3a8347a00063b24fff37bc8c4f928df5b39e8a436e04d39c3d75024ed39938c",
+                "sha256:e92073789d2482b908303d1af396dbdfc9a54c82e59403d8853a768e1d205a0e"
+            ],
+            "index": "pypi",
+            "version": "==9.2.3"
+        }
+    },
+    "develop": {}
+}
